@@ -1,0 +1,15 @@
+id: ABF38D349
+title: 'MSV 1,09: Kośāmbakavastu'
+type: translation
+pechas:
+- I9B20C9B6
+- I4E41C09E
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-09 15:08:18.275705
+  last_modified_at: 2023-02-09 15:08:18.275717
+alignment_to_base:
+  I9B20C9B6/9B24: '8994'
+  I4E41C09E/85D3: '8994'
